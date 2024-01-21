@@ -11,8 +11,6 @@ dynamic input_1=stdin.readLineSync();
 
 String player_1=input_1.toLowerCase();
 
-
-
 String? player_2=my_list[my_index];
 
 print("player 2:${my_list[my_index]} ");
